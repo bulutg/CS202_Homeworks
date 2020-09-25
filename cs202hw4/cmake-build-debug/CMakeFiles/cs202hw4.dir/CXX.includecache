@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bulut/CLionProjects/cs202hw4/AVLTree.h
+TreeNode.h
+/Users/bulut/CLionProjects/cs202hw4/TreeNode.h
+
+/Users/bulut/CLionProjects/cs202hw4/TreeNode.h
+iostream
+-
+string
+-
+
+/Users/bulut/CLionProjects/cs202hw4/main.cpp
+iostream
+-
+fstream
+-
+AVLTree.h
+/Users/bulut/CLionProjects/cs202hw4/AVLTree.h
+

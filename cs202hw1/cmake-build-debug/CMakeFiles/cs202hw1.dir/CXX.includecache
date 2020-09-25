@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bulut/CLionProjects/cs202hw1/main.cpp
+iostream
+-
+ctime
+-
+sorting.h
+/Users/bulut/CLionProjects/cs202hw1/sorting.h
+cstdlib
+-
+
+/Users/bulut/CLionProjects/cs202hw1/sorting.h
+iostream
+-
+

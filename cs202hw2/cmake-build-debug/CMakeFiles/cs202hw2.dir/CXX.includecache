@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bulut/CLionProjects/cs202hw2/NgramTree.h
+iostream
+-
+string
+-
+stdlib.h
+-
+TreeNode.h
+/Users/bulut/CLionProjects/cs202hw2/TreeNode.h
+
+/Users/bulut/CLionProjects/cs202hw2/TreeNode.h
+iostream
+-
+string
+-
+
+/Users/bulut/CLionProjects/cs202hw2/hw2.cpp
+iostream
+-
+string
+-
+NgramTree.h
+/Users/bulut/CLionProjects/cs202hw2/NgramTree.h
+
